@@ -1,4 +1,4 @@
-//This code generates random passwords...
+//This code generates random strong password
 #include<iostream>
 #include<fstream>
 #include<cstring>
